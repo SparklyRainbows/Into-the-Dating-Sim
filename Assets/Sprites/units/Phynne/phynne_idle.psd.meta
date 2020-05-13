@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: 89a6c7aa7bc4dbb4fa1faecc56605285
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2333737238255196207
+    second: phynne_idle_0
+  - first:
+      213: -4339555569720804654
+    second: phynne_idle_1
+  - first:
+      213: 1937132555941223736
+    second: phynne_idle_2
+  - first:
+      213: -1033559959986807716
+    second: phynne_idle_3
+  - first:
+      213: -8212707958690701858
+    second: phynne_idle_4
+  - first:
+      213: 1835523711685405011
+    second: phynne_idle_5
+  - first:
+      213: -7553675890250008080
+    second: phynne_idle_6
+  - first:
+      213: 5071477733133027984
+    second: phynne_idle_7
+  - first:
+      213: 1094695600699435359
+    second: phynne_idle_8
+  - first:
+      213: -2778364759129802816
+    second: phynne_idle_9
+  - first:
+      213: 5053538587745197958
+    second: phynne_idle_10
+  - first:
+      213: -3437138618452464536
+    second: phynne_idle_11
+  - first:
+      213: 5575992275840836547
+    second: phynne_idle_12
+  - first:
+      213: 3966571232636641636
+    second: phynne_idle_13
+  - first:
+      213: 1394254948001059882
+    second: phynne_idle_14
+  - first:
+      213: -8543687187036455748
+    second: phynne_idle_0
+  - first:
+      213: -3816601445814227597
+    second: phynne_idle_1
+  - first:
+      213: 9007463722885128782
+    second: phynne_idle_2
+  - first:
+      213: -956724264038898441
+    second: phynne_idle_3
+  - first:
+      213: 2568772602808512273
+    second: phynne_idle_4
+  - first:
+      213: -3728009785047537026
+    second: phynne_idle_5
+  - first:
+      213: -6427874251198444585
+    second: phynne_idle_6
+  - first:
+      213: -8201707932753299042
+    second: phynne_idle_7
+  - first:
+      213: -2306569093752202019
+    second: phynne_idle_8
+  - first:
+      213: -7833377442196308856
+    second: phynne_idle_9
+  - first:
+      213: 6494679105798123534
+    second: phynne_idle_10
+  - first:
+      213: 635003297344720611
+    second: phynne_idle_11
+  - first:
+      213: -6660169584410655155
+    second: phynne_idle_12
+  - first:
+      213: 7143287704836966957
+    second: phynne_idle_13
+  - first:
+      213: -7544562198716112333
+    second: phynne_idle_14
+  - first:
+      213: -8214606704267062193
+    second: phynne_idle_15
+  - first:
+      213: 3725016287321716478
+    second: phynne_idle_16
+  - first:
+      213: -9190749481478425123
+    second: phynne_idle_17
+  - first:
+      213: 6116532283452849023
+    second: phynne_idle_18
+  - first:
+      213: -8381250742092805412
+    second: phynne_idle_19
+  - first:
+      213: -4451712120651399441
+    second: phynne_idle_20
+  - first:
+      213: 6898827838061598494
+    second: phynne_idle_21
+  - first:
+      213: -3801459539219251749
+    second: phynne_idle_22
+  - first:
+      213: -615464003434206623
+    second: phynne_idle_23
+  - first:
+      213: -866916299277115803
+    second: phynne_idle_24
+  - first:
+      213: 6809339765632341289
+    second: phynne_idle_25
+  - first:
+      213: 5535279121245381760
+    second: phynne_idle_26
+  - first:
+      213: 4456877157307157940
+    second: phynne_idle_27
+  - first:
+      213: -3236368908157055295
+    second: phynne_idle_28
+  - first:
+      213: -8326621138395211478
+    second: phynne_idle_29
+  - first:
+      213: 4508030421170996304
+    second: phynne_idle_30
+  - first:
+      213: -8235720975157235013
+    second: phynne_idle_31
+  - first:
+      213: 5004713461222286372
+    second: phynne_idle_32
+  - first:
+      213: -710059683433115415
+    second: phynne_idle_33
+  - first:
+      213: -1130189453914372328
+    second: phynne_idle_34
+  - first:
+      213: -1440646498402269102
+    second: phynne_idle_35
+  - first:
+      213: 1691993301299154404
+    second: phynne_idle_36
+  - first:
+      213: -7968019120915060694
+    second: phynne_idle_37
+  - first:
+      213: -6271106423082365867
+    second: phynne_idle_38
+  - first:
+      213: 3782192606240093459
+    second: phynne_idle_39
+  - first:
+      213: 367109518914134153
+    second: phynne_idle_40
+  - first:
+      213: -2944218232449108272
+    second: phynne_idle_41
+  - first:
+      213: 7308025103386148013
+    second: phynne_idle_42
+  - first:
+      213: -2132145932752306981
+    second: phynne_idle_43
+  - first:
+      213: 4518091481636574294
+    second: phynne_idle_44
+  - first:
+      213: -9006365457484587922
+    second: phynne_idle_45
+  - first:
+      213: 493389393444031544
+    second: phynne_idle_46
+  - first:
+      213: 7625685487828884946
+    second: phynne_idle_47
+  - first:
+      213: -4835423553504997152
+    second: phynne_idle_48
+  - first:
+      213: -4431431762708582419
+    second: phynne_idle_49
+  - first:
+      213: -4844245551670148327
+    second: phynne_idle_50
+  - first:
+      213: 318165498497898958
+    second: phynne_idle_51
+  - first:
+      213: -3236976705807098459
+    second: phynne_idle_52
+  - first:
+      213: 4709026873292173898
+    second: phynne_idle_53
+  - first:
+      213: -8039318681053591425
+    second: phynne_idle_54
+  - first:
+      213: 7548707133016916757
+    second: phynne_idle_55
+  - first:
+      213: 4588295267088627204
+    second: phynne_idle_56
+  - first:
+      213: 4387932661163984543
+    second: phynne_idle_57
+  - first:
+      213: 128195913382011152
+    second: phynne_idle_58
+  - first:
+      213: -8987431037578317089
+    second: phynne_idle_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: phynne_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcb2a015c9be6980800000000000000
+      internalID: -8543687187036455748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_idle_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d200dc435b80bc0800000000000000
+      internalID: -3816601445814227597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_idle_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4229c94880f00d70800000000000000
+      internalID: 9007463722885128782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_idle_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4e6fdc95809b2f0800000000000000
+      internalID: -956724264038898441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_idle_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f2823821d16a320800000000000000
+      internalID: 2568772602808512273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_idle_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aaf033ad2734cc0800000000000000
+      internalID: -3728009785047537026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_idle_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbcf64cc6a9bc6a0800000000000000
+      internalID: -6427874251198444585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_idle_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e997cb4f61ead2e80800000000000000
+      internalID: -8201707932753299042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_idle_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc510541ab6dffd0800000000000000
+      internalID: -2306569093752202019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_idle_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cb45628b04a4390800000000000000
+      internalID: -7833377442196308856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_idle_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00bf378c3cb12a50800000000000000
+      internalID: 6494679105798123534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_idle_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee0f61722cffc800800000000000000
+      internalID: 635003297344720611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_idle_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d468751dc035293a0800000000000000
+      internalID: -6660169584410655155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_idle_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a093f125e022360800000000000000
+      internalID: 7143287704836966957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_idle_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332afaf27a45c4790800000000000000
+      internalID: -7544562198716112333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19dd2c8688fcafa45867260f7613fb0d, type: 3}
+  m_Name: Phynne
+  m_EditorClassIdentifier: 
+  id: 2
+  name: Phynne
+  unitSprite: {fileID: -8574539851516715941, guid: 15077b4124a862d479535f0e0dfe86a3,
+    type: 3}
+  movementType: 2
+  weaponMain: {fileID: 11400000, guid: 864be1e2201e4bb4aaa16841011e3536, type: 2}
+  weaponSecondary: {fileID: 0}
+  maxHealth: 2
+  baseMove: 5
+  controller: {fileID: 22100000, guid: d15eb7d18fd972e44bf188900a598016, type: 2}
+  attackAnims:
+  - {fileID: 7400000, guid: 511e19068f6ba0e4785fa78f260e663c, type: 2}
+  - {fileID: 7400000, guid: ab157ca71d8d7824ea5e52d000961d00, type: 2}
+  - {fileID: 7400000, guid: 9959506ab95088c4094fbb488cd10fcb, type: 2}
+  - {fileID: 7400000, guid: eecb3cb58221bcd4a810203fed3d84c6, type: 2}
+  idleAnim: {fileID: 7400000, guid: fb92df33092f5914e9a386ea0d8d129d, type: 2}
+  hurtSFX: PhynneHurt
+  portrait: {fileID: -2333603186756427141, guid: ed93cd8fa2ef52c4caa1068235e4d27c,
+    type: 3}
+  defaultBust: {fileID: 21300000, guid: 56d3924cb6a887a40ae76e924b03101c, type: 3}
+  blushing: {fileID: 21300000, guid: f68c7790ec0ec1e4a85d2d76b3ff2976, type: 3}
+  angry: {fileID: 21300000, guid: b6f8d47b0c9e10c4d80fa29a96a11a55, type: 3}
+  happy: {fileID: 21300000, guid: 9b67cfeac17993345b873f9c5ab90fb8, type: 3}
+  sad: {fileID: 21300000, guid: e706206aad15c7f4f92a1532292ba079, type: 3}
+  shocked: {fileID: 21300000, guid: eee4ab169b4ad6b449d3b65d7d3f73e2, type: 3}
+  weaponType: 3

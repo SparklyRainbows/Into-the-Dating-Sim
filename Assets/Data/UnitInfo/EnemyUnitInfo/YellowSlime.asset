@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3adb131498472da46b90790b192a4a70, type: 3}
+  m_Name: YellowSlime
+  m_EditorClassIdentifier: 
+  id: 8
+  name: Yellow Slime
+  unitSprite: {fileID: 2494292609473824518, guid: d92769e80cc951f45b732cebe5cbaefc,
+    type: 3}
+  movementType: 1
+  weaponMain: {fileID: 11400000, guid: a6abd6fc226e64b42936bc1292046d7f, type: 2}
+  weaponSecondary: {fileID: 0}
+  maxHealth: 4
+  baseMove: 6
+  controller: {fileID: 0}
+  attackAnims:
+  - {fileID: 7400000, guid: c28aa68a868b52047902b6fedbb364a8, type: 2}
+  idleAnim: {fileID: 7400000, guid: c28aa68a868b52047902b6fedbb364a8, type: 2}
+  hurtSFX: SlimeHurt
+  difficulty: 3

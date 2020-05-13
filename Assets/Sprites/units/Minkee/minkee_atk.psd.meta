@@ -1,0 +1,1726 @@
+fileFormatVersion: 2
+guid: 5d73e182d073c6f48a49cd240b4ad767
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1678346480378190767
+    second: minkee_attack_0
+  - first:
+      213: 7236347652735111284
+    second: minkee_attack_1
+  - first:
+      213: -5196938671125990061
+    second: minkee_attack_2
+  - first:
+      213: 7947174176311860664
+    second: minkee_attack_3
+  - first:
+      213: 5326627743245482349
+    second: minkee_attack_4
+  - first:
+      213: 5082370068793099511
+    second: minkee_attack_5
+  - first:
+      213: -3437377108168378077
+    second: minkee_attack_6
+  - first:
+      213: 5344362542699537031
+    second: minkee_attack_7
+  - first:
+      213: -1862400870410351550
+    second: minkee_attack_8
+  - first:
+      213: 1311870413732299424
+    second: minkee_attack_9
+  - first:
+      213: 3396450298349180554
+    second: minkee_attack_10
+  - first:
+      213: 2527315629495298304
+    second: minkee_attack_11
+  - first:
+      213: 5676242229229481282
+    second: minkee_attack_12
+  - first:
+      213: -5563789105421893613
+    second: minkee_attack_13
+  - first:
+      213: -4377939982280505761
+    second: minkee_attack_14
+  - first:
+      213: -5708954999912165954
+    second: minkee_attack_15
+  - first:
+      213: -7046495473414962970
+    second: minkee_attack_16
+  - first:
+      213: 7650820627006199690
+    second: minkee_attack_17
+  - first:
+      213: -8435595674570622124
+    second: minkee_attack_18
+  - first:
+      213: 6612859852014667669
+    second: minkee_attack_19
+  - first:
+      213: -8040804367280815319
+    second: minkee_attack_20
+  - first:
+      213: 1426299102584825743
+    second: minkee_attack_21
+  - first:
+      213: 962802212008799993
+    second: minkee_attack_22
+  - first:
+      213: 4299571845521939101
+    second: minkee_attack_23
+  - first:
+      213: 7595568890082189579
+    second: minkee_attack_24
+  - first:
+      213: -7176294658510728588
+    second: minkee_attack_25
+  - first:
+      213: 7901126269979338841
+    second: minkee_attack_26
+  - first:
+      213: 4068782463659386356
+    second: minkee_attack_27
+  - first:
+      213: 18118498924888103
+    second: minkee_attack_28
+  - first:
+      213: 5877191799770023840
+    second: minkee_attack_29
+  - first:
+      213: 2011700740912438967
+    second: minkee_attack_30
+  - first:
+      213: -6272765030017169498
+    second: minkee_attack_31
+  - first:
+      213: -804360568414508550
+    second: minkee_attack_32
+  - first:
+      213: -4828988623184942729
+    second: minkee_attack_33
+  - first:
+      213: 5187601883473366006
+    second: minkee_attack_34
+  - first:
+      213: -5581940232501650410
+    second: minkee_attack_35
+  - first:
+      213: 3416124646458455095
+    second: minkee_attack_36
+  - first:
+      213: 3844023467679105336
+    second: minkee_attack_37
+  - first:
+      213: -5890672075373413321
+    second: minkee_attack_38
+  - first:
+      213: 1579235755561815387
+    second: minkee_attack_39
+  - first:
+      213: -7281775112691352413
+    second: minkee_attack_40
+  - first:
+      213: -5048440574909331229
+    second: minkee_attack_41
+  - first:
+      213: 1979246139535547765
+    second: minkee_attack_42
+  - first:
+      213: 1874644369200252020
+    second: minkee_attack_43
+  - first:
+      213: 7437990753009126948
+    second: minkee_attack_44
+  - first:
+      213: 7199168702443903830
+    second: minkee_attack_45
+  - first:
+      213: 7641808654860320659
+    second: minkee_attack_46
+  - first:
+      213: 7569694525351234343
+    second: minkee_attack_47
+  - first:
+      213: -5837387125488582881
+    second: minkee_attack_48
+  - first:
+      213: -3004760638972714437
+    second: minkee_attack_49
+  - first:
+      213: 3259914934444748360
+    second: minkee_attack_50
+  - first:
+      213: 4313498350443323187
+    second: minkee_attack_51
+  - first:
+      213: 1752006744645552924
+    second: minkee_attack_52
+  - first:
+      213: 6743698678139516658
+    second: minkee_attack_53
+  - first:
+      213: 619217716883370485
+    second: minkee_attack_54
+  - first:
+      213: -3685469518669227157
+    second: minkee_attack_55
+  - first:
+      213: -2230862437148026936
+    second: minkee_attack_56
+  - first:
+      213: -8597554317920663764
+    second: minkee_attack_57
+  - first:
+      213: -6395239112438138813
+    second: minkee_attack_58
+  - first:
+      213: 8608448532103264277
+    second: minkee_attack_59
+  - first:
+      213: 7738127101694126651
+    second: minkee_attack_60
+  - first:
+      213: -7011963766383844440
+    second: minkee_atk_0
+  - first:
+      213: -334498754902498610
+    second: minkee_atk_1
+  - first:
+      213: -6833290147715237853
+    second: minkee_atk_2
+  - first:
+      213: -7053666272214091605
+    second: minkee_atk_3
+  - first:
+      213: 2997551508716175612
+    second: minkee_atk_4
+  - first:
+      213: -5394036307310049186
+    second: minkee_atk_5
+  - first:
+      213: -353519394736654850
+    second: minkee_atk_6
+  - first:
+      213: 1214904732505896980
+    second: minkee_atk_7
+  - first:
+      213: 1815347854362275667
+    second: minkee_atk_8
+  - first:
+      213: 5725887937715758703
+    second: minkee_atk_9
+  - first:
+      213: -3626647760700746722
+    second: minkee_atk_10
+  - first:
+      213: -7689874943020116946
+    second: minkee_atk_11
+  - first:
+      213: -9180368106211291609
+    second: minkee_atk_12
+  - first:
+      213: 9139831736976216303
+    second: minkee_atk_13
+  - first:
+      213: -4247561529492007073
+    second: minkee_atk_14
+  - first:
+      213: 4515846748485944883
+    second: minkee_atk_15
+  - first:
+      213: -7661908594123610467
+    second: minkee_atk_16
+  - first:
+      213: -4169625936686979604
+    second: minkee_atk_17
+  - first:
+      213: -7278907664851781221
+    second: minkee_atk_18
+  - first:
+      213: 5920067395480430301
+    second: minkee_atk_19
+  - first:
+      213: 6488322993820011464
+    second: minkee_atk_20
+  - first:
+      213: 6986430208088029574
+    second: minkee_atk_21
+  - first:
+      213: 1243272290636563649
+    second: minkee_atk_22
+  - first:
+      213: -4680755444854710918
+    second: minkee_atk_23
+  - first:
+      213: 5787285608354847270
+    second: minkee_atk_24
+  - first:
+      213: 4817015032880805692
+    second: minkee_atk_25
+  - first:
+      213: 7112223999703821725
+    second: minkee_atk_26
+  - first:
+      213: -1359190848222753118
+    second: minkee_atk_27
+  - first:
+      213: -8785823349684984092
+    second: minkee_atk_28
+  - first:
+      213: -1505804379071254500
+    second: minkee_atk_29
+  - first:
+      213: 6753441713357340432
+    second: minkee_atk_30
+  - first:
+      213: -6493233126502307994
+    second: minkee_atk_31
+  - first:
+      213: -5941040380371366830
+    second: minkee_atk_32
+  - first:
+      213: -1150144687739930401
+    second: minkee_atk_33
+  - first:
+      213: 8686597619622769783
+    second: minkee_atk_34
+  - first:
+      213: -7282914510223216999
+    second: minkee_atk_35
+  - first:
+      213: -125965056039618407
+    second: minkee_atk_36
+  - first:
+      213: -6580745953552884003
+    second: minkee_atk_37
+  - first:
+      213: 664063096402566843
+    second: minkee_atk_38
+  - first:
+      213: 8647968294423140512
+    second: minkee_atk_39
+  - first:
+      213: 8089537622183437618
+    second: minkee_atk_40
+  - first:
+      213: 2708145029320825733
+    second: minkee_atk_41
+  - first:
+      213: -1723032209284983823
+    second: minkee_atk_42
+  - first:
+      213: 6301285426210198532
+    second: minkee_atk_43
+  - first:
+      213: -414216660262872230
+    second: minkee_atk_44
+  - first:
+      213: 80793581442246344
+    second: minkee_atk_45
+  - first:
+      213: -8566624916364227674
+    second: minkee_atk_46
+  - first:
+      213: -5631797791538089936
+    second: minkee_atk_47
+  - first:
+      213: -2075529507776457411
+    second: minkee_atk_48
+  - first:
+      213: 841012641162150940
+    second: minkee_atk_49
+  - first:
+      213: 2924069723003944428
+    second: minkee_atk_50
+  - first:
+      213: 1701067408469841733
+    second: minkee_atk_51
+  - first:
+      213: 4502023480836722687
+    second: minkee_atk_52
+  - first:
+      213: -488331190983590807
+    second: minkee_atk_53
+  - first:
+      213: -1788713903653053201
+    second: minkee_atk_54
+  - first:
+      213: -7559853800935571533
+    second: minkee_atk_55
+  - first:
+      213: -3798785887741536004
+    second: minkee_atk_56
+  - first:
+      213: -6019749394514100896
+    second: minkee_atk_57
+  - first:
+      213: 5990466477120989162
+    second: minkee_atk_58
+  - first:
+      213: -4155341404562517011
+    second: minkee_atk_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: minkee_atk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3e7cefa1080be90800000000000000
+      internalID: -7011963766383844440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2e938972f9b5bf0800000000000000
+      internalID: -334498754902498610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328b142a0d64b21a0800000000000000
+      internalID: -6833290147715237853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba87688b5e75c1e90800000000000000
+      internalID: -7053666272214091605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0c6f82731799920800000000000000
+      internalID: 2997551508716175612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58893dae888425b0800000000000000
+      internalID: -5394036307310049186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5b287cbfb081bf0800000000000000
+      internalID: -353519394736654850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41874f8da653cd010800000000000000
+      internalID: 1214904732505896980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fe7036149613910800000000000000
+      internalID: 1815347854362275667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66ed370eb0767f40800000000000000
+      internalID: 5725887937715758703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1457f1931f8badc0800000000000000
+      internalID: -3626647760700746722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24db166b73184590800000000000000
+      internalID: -7689874943020116946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e43f9d8d7c89080800000000000000
+      internalID: -9180368106211291609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe01f453a8437de70800000000000000
+      internalID: 9139831736976216303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5793012b41ad05c0800000000000000
+      internalID: -4247561529492007073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3368b9711b28bae30800000000000000
+      internalID: 4515846748485944883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96efb96abe6ba590800000000000000
+      internalID: -7661908594123610467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5648d5d438226c0800000000000000
+      internalID: -4169625936686979604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9934ab4b002cfa90800000000000000
+      internalID: -7278907664851781221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6abf92eed482250800000000000000
+      internalID: 5920067395480430301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb04a2e2672b0a50800000000000000
+      internalID: 6488322993820011464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68935213249c4f060800000000000000
+      internalID: 6986430208088029574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c48a7aaf8df04110800000000000000
+      internalID: 1243272290636563649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d95fcf8bd9a0fb0800000000000000
+      internalID: -4680755444854710918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a98b33991905050800000000000000
+      internalID: 5787285608354847270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37b39896a979d240800000000000000
+      internalID: 4817015032880805692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9daa59ab02b3b260800000000000000
+      internalID: 7112223999703821725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae88b5ff1f232de0800000000000000
+      internalID: -1359190848222753118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6a1b6763c721680800000000000000
+      internalID: -8785823349684984092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10fa3435ee4a1be0800000000000000
+      internalID: -1505804379071254500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f38fff47b09bd50800000000000000
+      internalID: 6753441713357340432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667e703cfd663e5a0800000000000000
+      internalID: -6493233126502307994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c86b3404f2d8da0800000000000000
+      internalID: -5941040380371366830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd875fe008dd900f0800000000000000
+      internalID: -1150144687739930401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7747e50f28efc8870800000000000000
+      internalID: 8686597619622769783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e6b98e6d3edea90800000000000000
+      internalID: -7282914510223216999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99875ace27b704ef0800000000000000
+      internalID: -125965056039618407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde1469eb6e7ca4a0800000000000000
+      internalID: -6580745953552884003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe55892ed9373900800000000000000
+      internalID: 664063096402566843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a89ee94851c30870800000000000000
+      internalID: 8647968294423140512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235e66f6b9fc34070800000000000000
+      internalID: 8089537622183437618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b58e84e83459520800000000000000
+      internalID: 2708145029320825733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3130da55f8618e0800000000000000
+      internalID: -1723032209284983823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404da91a5b9a27750800000000000000
+      internalID: 6301285426210198532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b9bf06428604af0800000000000000
+      internalID: -414216660262872230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c62ff195590f1100800000000000000
+      internalID: 80793581442246344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab8918c60c3d1980800000000000000
+      internalID: -8566624916364227674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030fa844fb5d7d1b0800000000000000
+      internalID: -5631797791538089936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d359428c8ec3233e0800000000000000
+      internalID: -2075529507776457411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1445109a80ebab00800000000000000
+      internalID: 841012641162150940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedff12bbe1649820800000000000000
+      internalID: 2924069723003944428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547d6dc9bc76b9710800000000000000
+      internalID: 1701067408469841733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff8db9c0866a7e30800000000000000
+      internalID: 4502023480836722687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cfdac7e591939f0800000000000000
+      internalID: -488331190983590807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec15ff7e263d27e0800000000000000
+      internalID: -1788713903653053201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf39599501061790800000000000000
+      internalID: -7559853800935571533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_56
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf81667ac50084bc0800000000000000
+      internalID: -3798785887741536004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d3d17d1dd857ca0800000000000000
+      internalID: -6019749394514100896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7aea7a589622350800000000000000
+      internalID: 5990466477120989162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minkee_atk_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3149c22034556c0800000000000000
+      internalID: -4155341404562517011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

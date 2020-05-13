@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3adb131498472da46b90790b192a4a70, type: 3}
+  m_Name: RedSlime
+  m_EditorClassIdentifier: 
+  id: 5
+  name: Red Slime
+  unitSprite: {fileID: -3224919015719991890, guid: b33982f25c8cadc4a8d66d75d7559589,
+    type: 3}
+  movementType: 1
+  weaponMain: {fileID: 11400000, guid: a7ba0b94b58b75842bd956c3b036a7c7, type: 2}
+  weaponSecondary: {fileID: 0}
+  maxHealth: 6
+  baseMove: 4
+  controller: {fileID: 0}
+  attackAnims:
+  - {fileID: 7400000, guid: 183fcf91be4e95c4f80bf0873a32fdba, type: 2}
+  idleAnim: {fileID: 7400000, guid: 183fcf91be4e95c4f80bf0873a32fdba, type: 2}
+  hurtSFX: SlimeHurt
+  difficulty: 5

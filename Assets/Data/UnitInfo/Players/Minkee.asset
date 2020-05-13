@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19dd2c8688fcafa45867260f7613fb0d, type: 3}
+  m_Name: Minkee
+  m_EditorClassIdentifier: 
+  id: 1
+  name: Empress Min Kee
+  unitSprite: {fileID: -4390124077346443278, guid: 15077b4124a862d479535f0e0dfe86a3,
+    type: 3}
+  movementType: 1
+  weaponMain: {fileID: 11400000, guid: c3de8dde7329de84bab0bba19f69fead, type: 2}
+  weaponSecondary: {fileID: 11400000, guid: f97ffa256a9f35348be2e71fe50ae7de, type: 2}
+  maxHealth: 3
+  baseMove: 5
+  controller: {fileID: 22100000, guid: 9faab6344636e5340a8be8b94c0c4304, type: 2}
+  attackAnims:
+  - {fileID: 7400000, guid: 13cc86f6cca95ff4fbd39f31a7bd6ec8, type: 2}
+  - {fileID: 7400000, guid: 37c23015cebbc11489d2192d03a01c56, type: 2}
+  - {fileID: 7400000, guid: 258cebd6e4008bc4688f7eda1136059e, type: 2}
+  - {fileID: 7400000, guid: f394e3353142d6a4b98d7e6fec318f4c, type: 2}
+  idleAnim: {fileID: 7400000, guid: f7ec9e94a721d854d98ee04597f03d2f, type: 2}
+  hurtSFX: MinkeeHurt
+  portrait: {fileID: 3768783464013127491, guid: ed93cd8fa2ef52c4caa1068235e4d27c,
+    type: 3}
+  defaultBust: {fileID: 21300000, guid: fbd0cda1e47cf774d859a388918dd709, type: 3}
+  blushing: {fileID: 21300000, guid: 0e4181e5486ef0040a06f2c819d08391, type: 3}
+  angry: {fileID: 21300000, guid: 6a9935ac1180be14ebf1aaedbc3010e1, type: 3}
+  happy: {fileID: 21300000, guid: f4f531d155a24824aba1110f82d73494, type: 3}
+  sad: {fileID: 21300000, guid: e4f8cc1fbaa2fde449b1e07252b04371, type: 3}
+  shocked: {fileID: 21300000, guid: a1fe90e99c857c841b82537762480ea9, type: 3}
+  weaponType: 2

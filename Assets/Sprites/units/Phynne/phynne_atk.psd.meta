@@ -1,0 +1,868 @@
+fileFormatVersion: 2
+guid: 6dd6674a70d6b7f4297e7f46cfdbb192
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1793023759714355736
+    second: phynne_atk_0
+  - first:
+      213: -3558253862707400029
+    second: phynne_atk_1
+  - first:
+      213: -760704490919936463
+    second: phynne_atk_2
+  - first:
+      213: 7334593268601100263
+    second: phynne_atk_3
+  - first:
+      213: 2640177758668267715
+    second: phynne_atk_4
+  - first:
+      213: 2885393409722338024
+    second: phynne_atk_5
+  - first:
+      213: -1402646116041170954
+    second: phynne_atk_6
+  - first:
+      213: 3747435937869326122
+    second: phynne_atk_7
+  - first:
+      213: 7121967528090737547
+    second: phynne_atk_8
+  - first:
+      213: 1280575142402645503
+    second: phynne_atk_9
+  - first:
+      213: 8933545196143331911
+    second: phynne_atk_10
+  - first:
+      213: -6715929405154719923
+    second: phynne_atk_11
+  - first:
+      213: 365297997953242699
+    second: phynne_atk_12
+  - first:
+      213: 1280714422074705073
+    second: phynne_atk_13
+  - first:
+      213: -4229293087511710833
+    second: phynne_atk_14
+  - first:
+      213: 8048189964102766577
+    second: phynne_atk_15
+  - first:
+      213: 5594920825398258509
+    second: phynne_atk_16
+  - first:
+      213: -7918133013030130355
+    second: phynne_atk_17
+  - first:
+      213: 7149374466464359711
+    second: phynne_atk_18
+  - first:
+      213: -2719146740471667088
+    second: phynne_atk_19
+  - first:
+      213: 8683916959708883799
+    second: phynne_atk_20
+  - first:
+      213: -8701315382324332142
+    second: phynne_atk_21
+  - first:
+      213: 6354901152087975016
+    second: phynne_atk_22
+  - first:
+      213: 7856616553686616891
+    second: phynne_atk_23
+  - first:
+      213: -4749708956623734700
+    second: phynne_atk_24
+  - first:
+      213: 7427431236581006420
+    second: phynne_atk_25
+  - first:
+      213: 988252852003821963
+    second: phynne_atk_26
+  - first:
+      213: 4291571767404664538
+    second: phynne_atk_27
+  - first:
+      213: -7815718566513177112
+    second: phynne_atk_28
+  - first:
+      213: -4143092864234897209
+    second: phynne_atk_29
+  - first:
+      213: -8745396192357453747
+    second: phynne_atk_0
+  - first:
+      213: -4368733300657253246
+    second: phynne_atk_1
+  - first:
+      213: 132545659280672219
+    second: phynne_atk_2
+  - first:
+      213: -1485022487494582214
+    second: phynne_atk_3
+  - first:
+      213: 6318258199608968506
+    second: phynne_atk_4
+  - first:
+      213: -7327117597060633807
+    second: phynne_atk_5
+  - first:
+      213: 4784130130793306701
+    second: phynne_atk_6
+  - first:
+      213: -5161723715474546375
+    second: phynne_atk_7
+  - first:
+      213: 4520057435624621308
+    second: phynne_atk_8
+  - first:
+      213: -1855019973693377762
+    second: phynne_atk_9
+  - first:
+      213: 6137943971279592660
+    second: phynne_atk_10
+  - first:
+      213: -6388052025733935471
+    second: phynne_atk_11
+  - first:
+      213: -2373055811041391489
+    second: phynne_atk_12
+  - first:
+      213: 7071239069753714741
+    second: phynne_atk_13
+  - first:
+      213: -5774856547997053547
+    second: phynne_atk_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: phynne_atk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40fa768f7c12a680800000000000000
+      internalID: -8745396192357453747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 38
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28497e7a5342f53c0800000000000000
+      internalID: -4368733300657253246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 38
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5c1f92395e6d100800000000000000
+      internalID: 132545659280672219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 38
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a302b656ae3246be0800000000000000
+      internalID: -1485022487494582214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 38
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3544e26b56fea750800000000000000
+      internalID: 6318258199608968506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 38
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13befafbd59d05a90800000000000000
+      internalID: -7327117597060633807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 38
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a9d2da105a46240800000000000000
+      internalID: 4784130130793306701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 38
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9312e66f0afdd58b0800000000000000
+      internalID: -5161723715474546375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 38
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4c4c61a487abe30800000000000000
+      internalID: 4520057435624621308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 38
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1370c88925a146e0800000000000000
+      internalID: -1855019973693377762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 38
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcde5b858b5e2550800000000000000
+      internalID: 6137943971279592660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 38
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e0a6727841957a0800000000000000
+      internalID: -6388052025733935471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 38
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c83b61056311fd0800000000000000
+      internalID: -2373055811041391489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 38
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538a88a0876122260800000000000000
+      internalID: 7071239069753714741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 38
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d0ccbe0969bdfa0800000000000000
+      internalID: -5774856547997053547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff8537912ae0bf60800000000000000
+      internalID: 8048189964102766577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b6c48f8d625ad40800000000000000
+      internalID: 5594920825398258509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dab0a0af32d1290800000000000000
+      internalID: -7918133013030130355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f152bdfb23ea73360800000000000000
+      internalID: 7149374466464359711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076660a3276a34ad0800000000000000
+      internalID: -2719146740471667088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b207a2778738870800000000000000
+      internalID: 8683916959708883799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2997ae5e2c7be3780800000000000000
+      internalID: -8701315382324332142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864ace89de4213850800000000000000
+      internalID: 6354901152087975016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bc1f2212f480d60800000000000000
+      internalID: 7856616553686616891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_24
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45873f57ed4a51eb0800000000000000
+      internalID: -4749708956623734700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_25
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c1d028b59831760800000000000000
+      internalID: 7427431236581006420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_26
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8954ff9bbaf6bd00800000000000000
+      internalID: 988252852003821963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad61044e8c9be8b30800000000000000
+      internalID: 4291571767404664538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed8e8a8f5df88390800000000000000
+      internalID: -7815718566513177112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phynne_atk_29
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0c2d3bdf6c086c0800000000000000
+      internalID: -4143092864234897209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

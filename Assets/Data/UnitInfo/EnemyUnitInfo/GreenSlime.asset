@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3adb131498472da46b90790b192a4a70, type: 3}
+  m_Name: GreenSlime
+  m_EditorClassIdentifier: 
+  id: 4
+  name: Green Slime
+  unitSprite: {fileID: 368543389579951487, guid: 19ce78bb1dab4a247b989e6c299f1bbf,
+    type: 3}
+  movementType: 1
+  weaponMain: {fileID: 11400000, guid: e4a61947feecbfb44ab12f8d7c17ef82, type: 2}
+  weaponSecondary: {fileID: 0}
+  maxHealth: 3
+  baseMove: 5
+  controller: {fileID: 0}
+  attackAnims:
+  - {fileID: 7400000, guid: 8c77c4a866b94f341812b4cfd2a409d9, type: 2}
+  idleAnim: {fileID: 7400000, guid: 788d69a20c3f2a34fa53fb07b7f19026, type: 2}
+  hurtSFX: SlimeHurt
+  difficulty: 1

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af7b4837a32a0a45ad6595f0412cc31, type: 3}
+  m_Name: Forest
+  m_EditorClassIdentifier: 
+  id: 0
+  name: Forest
+  unitSprite: {fileID: -7381383704308568027, guid: 77f8e5017dff86d4980749e15c07c7b6,
+    type: 3}
+  movementType: 0
+  weaponMain: {fileID: 0}
+  weaponSecondary: {fileID: 0}
+  maxHealth: 1
+  baseMove: 0
+  attackAnims: []
+  idleAnim: {fileID: 0}
+  terrain: 3
+  unitSprites: []

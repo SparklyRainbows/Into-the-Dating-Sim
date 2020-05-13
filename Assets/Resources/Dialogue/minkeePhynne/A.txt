@@ -1,0 +1,19 @@
+Phynne: ...
+Narrator: <i>It's been weeks, but Phynne hasn't seen a sign of Min Kee anywhere. Phynne has always been alone, but these past few weeks have been especially lonely.</i>
+Phynne sad: ...
+Phynne shock: !!!
+Narrator: <i>Min Kee sits under a tree by herself. Phynne approaches her.</>
+Phynne: ...
+Minkee shock: Oh, it's you!
+Minkee sad: I'll leave right away, I wouldn't want to bother yo-
+Phynne angry: !!!
+Minkee shock: Uh, are you alright?
+Phynne: <n>Er, yes... No! Wait, I... I wish to speak to you about a</> grave <n>matter. Will you hear me out?</>
+Minkee: Of course!
+Minkee sad: It's the yeast I can do. 
+Phynne: <n>I thought you had fallen to your</> inner demons.
+Phynne blushing: Which is WHY, <n>er, which is why I thought you didn't want to...h, hang out anymore.</>
+Minkee shock: What? No! I just didn't want to intrude on your <e>vast, boundless void</>.
+Minkee sad: I mean, I just wanted to respect your wishes.
+Minkee happy: If you would have me in your life again, I promise to never make you feel like you have to bear your suffering alone.
+Phynne blushing: <e>I find your kindness refreshing. It helps me cope with my </>charred, blackened soul.

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3feebb27bcc60740a96ebcaf9bfaf74, type: 3}
+  m_Name: Swipe
+  m_EditorClassIdentifier: 
+  name: Swipe
+  description: Weak melee attack.
+  _sprite: {fileID: 1098179606456428539, guid: 625582d4900707449b29d749b49e879f, type: 3}
+  sprite: {fileID: 0}
+  attackPattern: {fileID: 11500000, guid: 78c653518c3a58d47b71b85d00923baa, type: 3}
+  type: 0
+  baseDamage: 1
+  baseHeal: 0
+  value: 5
+  owned: 0
+  useSFX: SlimeAttack
+  hasLimitedUse: 0
+  usesPerBattle: 0
+  range: 0
+  hasKnockback: 0
+  consumed: 0
+  isElectric: 0
+  status: 0
+  equipped: 1
+  rank: 0

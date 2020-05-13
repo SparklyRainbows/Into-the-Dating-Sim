@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3adb131498472da46b90790b192a4a70, type: 3}
+  m_Name: PurpleSlime
+  m_EditorClassIdentifier: 
+  id: 9
+  name: Purple Slime
+  unitSprite: {fileID: 2990249415873599603, guid: 35ee065bd1d67124da9aab2889b84f0f,
+    type: 3}
+  movementType: 1
+  weaponMain: {fileID: 11400000, guid: 1f508986f6fa0e245bf30bbc90871383, type: 2}
+  weaponSecondary: {fileID: 0}
+  maxHealth: 6
+  baseMove: 6
+  controller: {fileID: 0}
+  attackAnims:
+  - {fileID: 7400000, guid: 757287211d4a933408470df1c1ac288b, type: 2}
+  idleAnim: {fileID: 7400000, guid: 757287211d4a933408470df1c1ac288b, type: 2}
+  hurtSFX: SlimeHurt
+  difficulty: 7

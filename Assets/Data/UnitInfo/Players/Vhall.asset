@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19dd2c8688fcafa45867260f7613fb0d, type: 3}
+  m_Name: Vhall
+  m_EditorClassIdentifier: 
+  id: 3
+  name: Count von Vhall
+  unitSprite: {fileID: 6740746108911773275, guid: 15077b4124a862d479535f0e0dfe86a3,
+    type: 3}
+  movementType: 1
+  weaponMain: {fileID: 11400000, guid: 6c497565d27468a45bf5e69b6833a516, type: 2}
+  weaponSecondary: {fileID: 0}
+  maxHealth: 4
+  baseMove: 3
+  controller: {fileID: 22100000, guid: ecb14e820e7c25842b33c2d7940e3d93, type: 2}
+  attackAnims:
+  - {fileID: 7400000, guid: 8e34987f248c6174790e6c58301781d0, type: 2}
+  - {fileID: 7400000, guid: 9f97f59970271a44291dc5ab86e46c2c, type: 2}
+  - {fileID: 7400000, guid: 43ac685dafbe2334f946024b33c2f530, type: 2}
+  - {fileID: 7400000, guid: 43ac685dafbe2334f946024b33c2f530, type: 2}
+  idleAnim: {fileID: 7400000, guid: 3bff0bad5f69d564fa77aa7e3e5b5045, type: 2}
+  hurtSFX: VhallHurt
+  portrait: {fileID: 2651329150121784560, guid: ed93cd8fa2ef52c4caa1068235e4d27c,
+    type: 3}
+  defaultBust: {fileID: 21300000, guid: 00da21139e4da724bb1a6540fe53bb61, type: 3}
+  blushing: {fileID: 21300000, guid: 96f730c2eca46f94caa925391a9d9b6e, type: 3}
+  angry: {fileID: 21300000, guid: 5e009050dacabfc469011f18ca750f27, type: 3}
+  happy: {fileID: 21300000, guid: 36a8091fc49e0d6439c95722a7e19060, type: 3}
+  sad: {fileID: 21300000, guid: f6273a33f7c893049a90e50f60fd9bc8, type: 3}
+  shocked: {fileID: 21300000, guid: cf7401252587cc34290613fcece7183f, type: 3}
+  weaponType: 1
